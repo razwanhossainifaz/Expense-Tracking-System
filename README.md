@@ -34,6 +34,11 @@ This project is an expense management system that consists of a Streamlit fronte
 
 <img src = "img/add_update_ui.png">
 
-# Analytics User interface
+# Analytics by category user interface
 
 <img src = "img/analytics_ui.png">
+
+# Analytics by months user interface
+
+<img src = "img/analytics_by_month_1.png">
+<img src = "img/analytics_by_month_2.png">
