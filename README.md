@@ -18,15 +18,22 @@ This project is an expense management system that consists of a Streamlit fronte
    ```bash
    git clone https://github.com/razwanhossainifaz/Expense-Tracking-System.git
    ```
-1. **Install dependencies:**:   
+2. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
    ```
-1. **Run the FastAPI server:**:   
+3. **Run the FastAPI server:**:   
    ```commandline
     uvicorn server.server:app --reload
    ```
-1. **Run the Streamlit app:**:   
+4. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
    ```
+# Add/Update user interface
+
+<img src = "img/add_update_ui.png">
+
+# Analytics User interface
+
+<img src = "img/analytics_ui.png">
