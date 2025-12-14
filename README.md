@@ -18,15 +18,19 @@ This project is an expense management system that consists of a Streamlit fronte
    ```bash
    git clone https://github.com/razwanhossainifaz/Expense-Tracking-System.git
    ```
-2. **Install dependencies:**:   
+2. **Import databse**:
+   ```commandline
+    Download databse and import in mysql workbench
+   ```
+3. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
    ```
-3. **Run the FastAPI server:**:   
+4. **Run the FastAPI server:**:   
    ```commandline
     uvicorn server.server:app --reload
    ```
-4. **Run the Streamlit app:**:   
+5. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
    ```
